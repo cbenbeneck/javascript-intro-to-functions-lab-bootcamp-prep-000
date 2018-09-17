@@ -1,5 +1,3 @@
-Hello
-
 function 
 shout(string) {
   return string.toUpperCase()
@@ -12,5 +10,5 @@ whisper(string) {
 
 function
 logShout(string) {
-  console.log(Hello)
+  console.log()
 }
