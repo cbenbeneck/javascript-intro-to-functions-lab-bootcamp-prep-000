@@ -11,5 +11,6 @@ whisper(string) {
 var index = require(".test/index-text.js")
 var = logShout
 
+logShout=
 console.log(index.logShout(string.toUpperCase()))
 
