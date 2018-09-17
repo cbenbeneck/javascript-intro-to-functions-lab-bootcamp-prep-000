@@ -8,10 +8,7 @@ whisper(string) {
   return string.toLowerCase()
 }
 
-var index = require(".test/index-text.js")
-var = logShout
-
-logShout = "Hello" 
-
-console.log(logShout(string.toUpperCase()))
-
+function
+logShout(string) {
+  cosole.log(logShout.toUpperCase())
+}
