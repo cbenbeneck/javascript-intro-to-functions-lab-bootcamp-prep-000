@@ -8,4 +8,5 @@ whisper(string) {
   return string.toLowerCase()
 }
 
-console.log(logShout(string.tolowerCase))
+console.log(logShout(string.toUpperCase()))
+
