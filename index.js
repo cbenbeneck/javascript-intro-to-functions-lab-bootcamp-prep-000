@@ -13,5 +13,5 @@ var = logShout
 
 logShout = "Hello" 
 
-console.log(index.logShout(string.toUpperCase()))
+console.log(logShout(string.toUpperCase()))
 
