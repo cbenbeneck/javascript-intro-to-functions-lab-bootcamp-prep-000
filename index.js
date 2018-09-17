@@ -9,5 +9,5 @@ whisper(string) {
 }
 
 console.log("logShout")
-console.log(lo)
+console.log(logShout)
 
