@@ -8,4 +8,4 @@ whisper(string) {
   return string.toLowerCase()
 }
 
-function 
+function logShout 
