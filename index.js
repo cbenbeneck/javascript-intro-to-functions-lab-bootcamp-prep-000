@@ -8,7 +8,7 @@ whisper(string) {
   return string.toLowerCase()
 }
 
-var index = require("./index-test.js")
+var index-test = require("./index-test.js")
 
 function
 logShout(string) {
