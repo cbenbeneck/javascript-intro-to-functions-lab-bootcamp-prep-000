@@ -10,5 +10,5 @@ whisper(string) {
 
 var index = require("./index-text.js")
 
-console.log(logShout(string.toUpperCase()))
+console.log(index.logShout(string.toUpperCase()))
 
