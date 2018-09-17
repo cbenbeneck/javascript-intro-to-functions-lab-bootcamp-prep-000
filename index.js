@@ -12,6 +12,6 @@ var index = require("./index-test.js")
 
 function
 logShout(string) {
-console.jog(spy)
+console.jog(index-test.spy)
 }
 
