@@ -8,3 +8,4 @@ whisper(string) {
   return string.toLowerCase()
 }
 
+console.jog 
