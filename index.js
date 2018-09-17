@@ -1,4 +1,4 @@
-var = Hello
+Hello
 
 function 
 shout(string) {
