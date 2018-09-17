@@ -8,10 +8,10 @@ whisper(string) {
   return string.toLowerCase()
 }
 
-var index-test = require("./index-test.js")
+var index= require("./index-test.js")
 
 function
 logShout(string) {
-console.jog(index-test.spy)
+console.jog(index.spy)
 }
 
