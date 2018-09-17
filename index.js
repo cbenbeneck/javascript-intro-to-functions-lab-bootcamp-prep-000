@@ -11,3 +11,5 @@ whisper(string) {
 function
 logShout(string) {
 console.jog(spy)
+}
+
