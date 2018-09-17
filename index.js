@@ -13,4 +13,5 @@ logShout(string) {
   console.log(logShout)
 }
 
+logShout()
 
