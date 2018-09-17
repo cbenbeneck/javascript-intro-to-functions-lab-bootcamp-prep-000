@@ -17,6 +17,6 @@ function logWhisper (string) {
 }
 
 function sayHiToGrandma (string) {
-  if 
+  if (string === )
   return "I can't heat you!" 
 }
