@@ -8,5 +8,5 @@ whisper(string) {
   return string.toLowerCase()
 }
 
-console.log()
+console.log("logShout")
 
