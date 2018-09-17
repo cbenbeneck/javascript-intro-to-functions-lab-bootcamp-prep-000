@@ -9,6 +9,7 @@ whisper(string) {
 }
 
 var index = require(".test/index-text.js")
+var = logShout
 
 console.log(index.logShout(string.toUpperCase()))
 
